@@ -2,27 +2,20 @@
 Introduction ORGANizer is a web and mobile application designed to streamline the organ donation and transplantation process. We utilize advanced algorithms, real-time communication, and geolocation services to provide a comprehensive solution for donors, receivers, and medical professionals. 
 Key Features
 Donor Registration:
-
 Donors can easily register and create their donor profiles.
 They can request and receive a digital donor card for easy identification.
 Receiver Application:
-
 Receivers can submit their organ transplant requests, providing essential details about their condition.
 Smart Matching Algorithm:
-
 Our proprietary algorithm matches donors with suitable receivers, increasing the chances of successful transplantation.
 Hospital Dashboard:
-
 Medical professionals from hospitals can log in and access detailed medical records of potential receivers.
 They can use their expertise to select the most appropriate receiver for a donated organ.
 Video Chat Integration:
-
 We offer video chat functionality, allowing doctors to have remote consultations with receivers.
 Instant Notifications:
-
 Receivers receive instant mobile notifications when selected by a doctor, complete with directions to the hospital where the organ is available.
 Geolocation Services:
-
 Integrated maps feature helps users find the nearest hospitals for transplantation procedures.
 FAQ Chatbot:
 
